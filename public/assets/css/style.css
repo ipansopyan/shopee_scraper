@@ -1,0 +1,52 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+.hero-image {
+    background-color: #4a90e2;
+}
+.hero-image h1 {
+    font-size: 44px;
+    line-height: 58px;
+    font-weight: 300 !important;
+}
+.hero-image .btn,
+.order .btn {
+    color: #4a90e2;
+    background-color: #ffffff;
+    font-weight: 700;
+    width: 190px;
+}
+.order .btn {
+    background-color: #0964cc;
+    color: #ffffff;
+}
+.embed-responsive {
+    border-radius: 10px;
+}
+.video h2 {
+    margin-bottom: 30px;
+    font-weight: 300;
+    color: #252525;
+    font-size: 33px;
+    line-height: 45px;
+}
+.video p {
+    font-weight: 400;
+    color: #808080;
+}
+.checkout h4 {
+    font-size: 19px;
+    line-height: 32px;
+    color: #252525;
+    font-weight: 400;
+    width: 100%;
+}
+.checkout p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.space--xs .feature i {
+    color: #4a90e2;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
